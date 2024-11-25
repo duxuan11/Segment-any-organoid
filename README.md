@@ -1,6 +1,3 @@
-# Segment-any-organoid
-
-
 <h1 align="center">segment any organoid (SAO)</h1>
 
 <div align='center'>
