@@ -27,4 +27,4 @@
 | <img src="https://drive.google.com/file/d/1oBUTaeOxyy3wuWqQnPBOP27OhLCKYFez/view?usp=drive_link&sz=w400" /> |  <img src="https://drive.google.com/thumbnail?id=1Z-esCujQF_uEa_YJjkibc3NUrW4aR_d4&sz=w400" /> |  <img src="https://drive.google.com/thumbnail?id=1Z-esCujQF_uEa_YJjkibc3NUrW4aR_d4&sz=w400" /> |
 | :------------------------------: | :-------------------------------: | :-------------------------------: |
 | <img src="https://drive.google.com/thumbnail?id=1ItXaA26iYnE8XQ_GgNLy71MOWePoS2-g&sz=w400" /> |  <img src="https://drive.google.com/thumbnail?id=1Z-esCujQF_uEa_YJjkibc3NUrW4aR_d4&sz=w400" /> |  <img src="https://drive.google.com/thumbnail?id=1Z-esCujQF_uEa_YJjkibc3NUrW4aR_d4&sz=w400" /> |
-This repo is the official implementation of "[**Segment any organoid**](https://arxiv.org/pdf/2401.03407)".
+This repo is the official implementation of "[**Segment any organoid**](https://www.researchgate.net/publication/384542893_Segment_Any_Organoid_A_Generalist_Algorithm_for_High-Throughput_Drug_Screening_of_Organoid)".
