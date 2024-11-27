@@ -7,7 +7,7 @@
     <a href='https://scholar.google.com' target='_blank'><strong>Zilin Zhang</strong></a><sup>1</sup>,&thinsp;
     <a href='https://scholar.google.com' target='_blank'><strong>Jing Zhang</strong></a><sup>4</sup>,&thinsp;
     <a href='https://scholar.google.com' target='_blank'><strong>Yanhui Li</strong></a><sup>2*</sup>,&thinsp;
-    <a href='https://scholar.google.com' target='_blank'><strong>Yanhui Li</strong></a><sup>1*</sup>,&thinsp;
+    <a href='https://scholar.google.com' target='_blank'><strong>Zaozao Chen</strong></a><sup>1*</sup>,&thinsp;
     <a href='https://scholar.google.com' target='_blank'><strong>Zhongze Gu</strong></a><sup>1*</sup>,&thinsp;
 </div>
 
@@ -25,5 +25,5 @@
 |            *DIS-Sample_1*        |             *DIS-Sample_2*        |             *DIS-Sample_2*        |
 | :------------------------------: | :-------------------------------: | :-------------------------------: |
 | <img src="https://drive.google.com/thumbnail?id=1ItXaA26iYnE8XQ_GgNLy71MOWePoS2-g&sz=w400" /> |  <img src="https://drive.google.com/thumbnail?id=1Z-esCujQF_uEa_YJjkibc3NUrW4aR_d4&sz=w400" /> |  <img src="https://drive.google.com/thumbnail?id=1Z-esCujQF_uEa_YJjkibc3NUrW4aR_d4&sz=w400" /> |
-
+| :------------------------------: | :-------------------------------: | :-------------------------------: |
 This repo is the official implementation of "[**Segment any organoid**](https://arxiv.org/pdf/2401.03407)".
