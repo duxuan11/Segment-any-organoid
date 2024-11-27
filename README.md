@@ -36,3 +36,4 @@ This repo is the official implementation of "[**Segment any organoid**](https://
 
 <div align='center'> ##Documentation </div>
 ## Documentation 📑:
+ont-size:144px; width:144px; height:144px; font-size:118px; border:1px solid
