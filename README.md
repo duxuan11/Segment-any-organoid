@@ -12,13 +12,13 @@
 </div>
 
 <div align='center'>
-    <sup>1 </sup>Southeast University&ensp;  <sup>2 </sup>Nanjing University&ensp;  <sup>3 </sup>Avatarget Biotechnology Co.&ensp;  <sup>4 </sup>Anhui Science and Technology University&ensp; 
+    <sup>1 </sup>Southeast University&ensp;  <sup>2 </sup>Nanjing University&ensp;  <sup>3 </sup>Avatarget Biotechnology Co.&ensp;  <br/> <sup>4 </sup>Anhui Science and Technology University&ensp; 
     <br />
 </div>
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
   <a href='https://www.sciopen.com/article/pdf/10.26599/AIR.2024.9150'><img src='https://img.shields.io/badge/Journal-Paper-red'></a>&ensp; 
   <a href='https://arxiv.org/pdf/2401.'><img src='https://img.shields.io/badge/arXiv-Paper-red'></a>&ensp; 
-  <a href='LICENSE'><img src='https://img.shields.io/badge/License-MIT-yellow'></a>&ensp;  <br/>
+  <a href='LICENSE'><img src='https://img.shields.io/badge/License-MIT-yellow'></a>&ensp; 
   <a href='https://huggingface.co/spaces/ZhengPeng7/BiRefNet'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20HF-Space-blue'></a>&ensp; 
 </div>
 
