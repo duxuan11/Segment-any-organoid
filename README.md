@@ -24,7 +24,7 @@
 
 |            *DIS-Sample_1*        |             *DIS-Sample_2*        |             *DIS-Sample_2*        |
 | :------------------------------: | :-------------------------------: | :-------------------------------: |
-| <img src="https://drive.google.com/file/d/1oBUTaeOxyy3wuWqQnPBOP27OhLCKYFez/view?usp=drive_link" /> |  <img src="https://drive.google.com/thumbnail?id=1Z-esCujQF_uEa_YJjkibc3NUrW4aR_d4&sz=w400" /> |  <img src="https://drive.google.com/thumbnail?id=1Z-esCujQF_uEa_YJjkibc3NUrW4aR_d4&sz=w400" /> |
+| <img src="https://drive.google.com/uc?id=1ZtHwDi5CbiytJQJcu_gIX8C_BvAtfYK7" /> |  <img src="https://drive.google.com/thumbnail?id=1Z-esCujQF_uEa_YJjkibc3NUrW4aR_d4&sz=w400" /> |  <img src="https://drive.google.com/thumbnail?id=1Z-esCujQF_uEa_YJjkibc3NUrW4aR_d4&sz=w400" /> |
 | :------------------------------: | :-------------------------------: | :-------------------------------: |
 | <img src="https://drive.google.com/thumbnail?id=1ItXaA26iYnE8XQ_GgNLy71MOWePoS2-g&sz=w400" /> |  <img src="https://drive.google.com/thumbnail?id=1Z-esCujQF_uEa_YJjkibc3NUrW4aR_d4&sz=w400" /> |  <img src="https://drive.google.com/thumbnail?id=1Z-esCujQF_uEa_YJjkibc3NUrW4aR_d4&sz=w400" /> |
 
