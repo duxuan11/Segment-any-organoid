@@ -22,9 +22,9 @@
   <a href='https://huggingface.co/spaces/ZhengPeng7/BiRefNet'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20HF-Space-blue'></a>&ensp; 
 </div>
 
-|            *DIS-Sample_1*        |             *DIS-Sample_2*        |
-| :------------------------------: | :-------------------------------: |
-| <img src="https://drive.google.com/uc?id=1T81gTsJ8X74wjtVFYcwGDiXvtvqxNs_g" /> |  <img src="https://drive.google.com/thumbnail?id=1Z-esCujQF_uEa_YJjkibc3NUrW4aR_d4&sz=w400" /> |=
+|            *DIS-Sample_1*        |             *DIS-Sample_2*        |             *DIS-Sample_2*        |
+| :------------------------------: | :-------------------------------: | :-------------------------------: |
+| <img src="https://drive.google.com/uc?id=19ShmEUc_lpIKASy6zUq5F89q3HRsdfvr" /> |  <img src="https://drive.google.com/uc?id=19ShmEUc_lpIKASy6zUq5F89q3HRsdfvr" /> |  <img src="https://drive.google.com/uc?id=19ShmEUc_lpIKASy6zUq5F89q3HRsdfvr" /> |
 | :------------------------------: | :-------------------------------: | :-------------------------------: |
 | <img src="https://drive.google.com/thumbnail?id=1ItXaA26iYnE8XQ_GgNLy71MOWePoS2-g&sz=w400" /> |  <img src="https://drive.google.com/thumbnail?id=1Z-esCujQF_uEa_YJjkibc3NUrW4aR_d4&sz=w400" /> |  <img src="https://drive.google.com/thumbnail?id=1Z-esCujQF_uEa_YJjkibc3NUrW4aR_d4&sz=w400" /> |
 
