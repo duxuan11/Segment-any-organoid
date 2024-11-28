@@ -24,7 +24,7 @@
 
 |            *DIS-Sample_1*        |             *DIS-Sample_2*        |
 | :------------------------------: | :-------------------------------: |
-| <img src="https://drive.usercontent.google.com/uc?id=1l15twNDw3MVd_5KAaN13ajHbBvn6a22Q" /> |  <img src="https://drive.google.com/thumbnail?id=1Z-esCujQF_uEa_YJjkibc3NUrW4aR_d4&sz=w400" /> |=
+| <img src="https://drive.google.com/uc?id=1LM2rOMCO9JZ105dSYwF8FJsYZw2SESL7" /> |  <img src="https://drive.google.com/thumbnail?id=1Z-esCujQF_uEa_YJjkibc3NUrW4aR_d4&sz=w400" /> |=
 | :------------------------------: | :-------------------------------: | :-------------------------------: |
 | <img src="https://drive.google.com/thumbnail?id=1ItXaA26iYnE8XQ_GgNLy71MOWePoS2-g&sz=w400" /> |  <img src="https://drive.google.com/thumbnail?id=1Z-esCujQF_uEa_YJjkibc3NUrW4aR_d4&sz=w400" /> |  <img src="https://drive.google.com/thumbnail?id=1Z-esCujQF_uEa_YJjkibc3NUrW4aR_d4&sz=w400" /> |
 
