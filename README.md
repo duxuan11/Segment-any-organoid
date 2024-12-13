@@ -22,7 +22,7 @@
   <a href='https://huggingface.co/spaces/ZhengPeng7/BiRefNet'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20HF-Space-blue'></a>&ensp; 
 </div>
 
-|            *DIS-Sample_1*        |             *DIS-Sample_2*        |             *DIS-Sample_2*        |
+|            **        |             **        |             **        |
 | :------------------------------: | :-------------------------------: | :-------------------------------: |
 | <img src="https://drive.google.com/uc?id=19ShmEUc_lpIKASy6zUq5F89q3HRsdfvr" /> |  <img src="https://drive.google.com/uc?id=1tJEwPgfiK18r34n_qronNpuQhjd20NhV" /> |  <img src="https://drive.google.com/uc?id=1KtoevItyasK2samFIE0RfrQQ7cHo0QBZ" /> |
 | :------------------------------: | :-------------------------------: | :-------------------------------: |
