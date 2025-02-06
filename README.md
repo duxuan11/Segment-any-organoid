@@ -34,6 +34,7 @@ This repo is the official implementation of "[**Segment any organoid**](https://
 
 ## Documentation 📑
 > This is about the organoid/organ-on-a-chip intelligent segmentation algorithm.
+> The code will be released soon.
 ## Usage
 #### Environment Setup
 ```shell
