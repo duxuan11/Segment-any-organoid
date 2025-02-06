@@ -30,7 +30,7 @@
 <br/>
 |            Interactive segmentation      |
 | :------------------------------: | :-------------------------------: | :-------------------------------: |
-| <img src="https://drive.google.com/uc?id=18aH5Y04e0UN_TszImjMsB7HOLu9txk8H" /> |  <img src="https://drive.google.com/uc?id=1mtmf6k1Nv_jV08PBsnf9fnY6WvYTpY2m" /> |  <img src="https://drive.google.com/uc?id=1oA0MK4mkpfZ6M4eBtvRcwDZWWP6V6y53" /> |
+| <img src="https://drive.google.com/uc?id=18aH5Y04e0UN_TszImjMsB7HOLu9txk8H" /> |  <img src="https://drive.google.com/uc?id=1mtmf6k1Nv_jV08PBsnf9fnY6WvYTpY2m" /> | 
 <br/>
 This repo is the official implementation of "[**Segment any organoid**](https://www.researchgate.net/publication/384542893_Segment_Any_Organoid_A_Generalist_Algorithm_for_High-Throughput_Drug_Screening_of_Organoid)".
 
