@@ -32,7 +32,14 @@
 
 This repo is the official implementation of "[**Segment any organoid**](https://www.researchgate.net/publication/384542893_Segment_Any_Organoid_A_Generalist_Algorithm_for_High-Throughput_Drug_Screening_of_Organoid)".
 
+## Documentation 📑
+> This is about the organoid/organ-on-a-chip intelligent segmentation algorithm.
+## Usage
+#### Environment Setup
+```shell
+pip install -r requirements.txt
+```
+#### Dataset Preparation
+## Traning
 
-
-<div align='center'> ##Documentation 📑 </div>
 
