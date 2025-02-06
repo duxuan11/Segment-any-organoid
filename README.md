@@ -21,14 +21,17 @@
   <a href='LICENSE'><img src='https://img.shields.io/badge/License-MIT-blue'></a>&ensp; 
 </div>
 
-|            **        |             **        |             **        |
+|            Automatic segmentation      |
 | :------------------------------: | :-------------------------------: | :-------------------------------: |
 | <img src="https://drive.google.com/uc?id=19ShmEUc_lpIKASy6zUq5F89q3HRsdfvr" /> |  <img src="https://drive.google.com/uc?id=1tJEwPgfiK18r34n_qronNpuQhjd20NhV" /> |  <img src="https://drive.google.com/uc?id=1KtoevItyasK2samFIE0RfrQQ7cHo0QBZ" /> |
 | :------------------------------: | :-------------------------------: | :-------------------------------: |
 | <img src="https://drive.google.com/uc?id=1I5UW-xzCLMQD0IhlRwdCHqz8nFMxUa8X" /> |  <img src="https://drive.google.com/uc?id=1BbR6YjzI8xKwCQL-t-5pul5PcLRrJNrs" /> |  <img src="https://drive.google.com/uc?id=1puGcK3elZ3__nfKTa2iVcMajLhLaG1qQ" /> |
 
 <br/>
-
+|            Interactive segmentation      |
+| :------------------------------: | :-------------------------------: | :-------------------------------: |
+| <img src="https://drive.google.com/uc?id=18aH5Y04e0UN_TszImjMsB7HOLu9txk8H" /> |  <img src="https://drive.google.com/uc?id=1mtmf6k1Nv_jV08PBsnf9fnY6WvYTpY2m" /> |  <img src="https://drive.google.com/uc?id=1oA0MK4mkpfZ6M4eBtvRcwDZWWP6V6y53" /> |
+<br/>
 This repo is the official implementation of "[**Segment any organoid**](https://www.researchgate.net/publication/384542893_Segment_Any_Organoid_A_Generalist_Algorithm_for_High-Throughput_Drug_Screening_of_Organoid)".
 
 ## Documentation 📑
