@@ -21,7 +21,7 @@
   <a href='LICENSE'><img src='https://img.shields.io/badge/License-MIT-blue'></a>&ensp; 
 </div>
 
-|            *Sample_1*            |             *Sample_2*            |             *Sample_2*            |
+|            *Sample_1*            |             *Sample_2*            |             *Sample_3*            |
 | :------------------------------: | :-------------------------------: | :-------------------------------: |
 | <img src="https://drive.google.com/uc?id=19ShmEUc_lpIKASy6zUq5F89q3HRsdfvr" /> |  <img src="https://drive.google.com/uc?id=1tJEwPgfiK18r34n_qronNpuQhjd20NhV" /> |  <img src="https://drive.google.com/uc?id=1KtoevItyasK2samFIE0RfrQQ7cHo0QBZ" /> |
 | :------------------------------: | :-------------------------------: | :-------------------------------: |
