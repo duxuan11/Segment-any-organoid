@@ -1,4 +1,4 @@
-<h1 align="center">segment any organoid (SAO)</h1>
+<h1 align="center">Precision Organoid Segmentation Technique (POST) (SAO)</h1>
 
 <div align='center'>
     <a href='https://scholar.google.com' target='_blank'><strong>Xuan Du</strong></a><sup> 1,3</sup>,&thinsp;
@@ -39,5 +39,11 @@ pip install -r requirements.txt
 ```
 #### Dataset Preparation
 ## Traning
-
+```shell
+python train.py
+```
+## Prediction
+```shell
+python predict.py
+```
 
